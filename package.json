@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "_args": [
     [
       "log-timestamp@0.3.0",
@@ -47,8 +46,7 @@
     "node": "*"
   },
   "homepage": "https://github.com/bahamas10/node-log-timestamp#readme",
-=======
-  "name": "log-timestamp",
+  "name": "log-timestamp-moment",
   "description": "Prepend timestamps to functions like console.log, console.warn, etc",
   "version": "0.3.0",
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
@@ -69,14 +67,12 @@
   "engines": {
     "node": "*"
   },
->>>>>>> 010e1d327ba8aa5fdfd38e7db647a8b59efc41d4
   "keywords": [
     "console",
     "console.log",
     "log",
     "logger",
     "timestamp"
-<<<<<<< HEAD
   ],
   "main": "./log-timestamp.js",
   "name": "log-timestamp-moment",
@@ -89,7 +85,4 @@
     "test": "for f in tests/*; do echo \"$f\"; node \"$f\"; done; echo 'passed!'; exit 0"
   },
   "version": "0.3.0"
-=======
-  ]
->>>>>>> 010e1d327ba8aa5fdfd38e7db647a8b59efc41d4
 }
