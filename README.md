@@ -49,7 +49,7 @@ yields
 Install
 ------
 
-    npm install log-timestamp
+    npm install log-timestamp-moment
 
 Tests
 -----
